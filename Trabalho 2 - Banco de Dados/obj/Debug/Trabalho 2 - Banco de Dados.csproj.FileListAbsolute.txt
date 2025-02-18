@@ -1,0 +1,50 @@
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\bin\Debug\Trabalho 2 - Banco de Dados.exe.config
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\bin\Debug\Trabalho 2 - Banco de Dados.exe
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\bin\Debug\Trabalho 2 - Banco de Dados.pdb
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\bin\Debug\BouncyCastle.Cryptography.dll
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\bin\Debug\Google.Protobuf.dll
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\bin\Debug\K4os.Compression.LZ4.dll
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\bin\Debug\K4os.Hash.xxHash.dll
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\bin\Debug\MySql.Data.dll
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\bin\Debug\System.Buffers.dll
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\bin\Debug\System.IO.Pipelines.dll
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\bin\Debug\System.Memory.dll
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\bin\Debug\System.Numerics.Vectors.dll
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\bin\Debug\ZstdSharp.dll
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\bin\Debug\BouncyCastle.Cryptography.xml
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\bin\Debug\Google.Protobuf.pdb
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\bin\Debug\Google.Protobuf.xml
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\bin\Debug\K4os.Compression.LZ4.xml
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\bin\Debug\K4os.Hash.xxHash.xml
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\bin\Debug\MySql.Data.xml
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\bin\Debug\System.Buffers.xml
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\bin\Debug\System.IO.Pipelines.xml
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\bin\Debug\System.Memory.xml
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\bin\Debug\System.Numerics.Vectors.xml
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\obj\Debug\Trabalho 2 - Banco de Dados.csproj.AssemblyReference.cache
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\obj\Debug\Trabalho_2___Banco_de_Dados.Properties.Resources.resources
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\obj\Debug\Trabalho 2 - Banco de Dados.csproj.GenerateResource.cache
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\obj\Debug\Trabalho 2 - Banco de Dados.csproj.CoreCompileInputs.cache
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\obj\Debug\Trabalho.B64DA831.Up2Date
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\obj\Debug\Trabalho 2 - Banco de Dados.exe
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\obj\Debug\Trabalho 2 - Banco de Dados.pdb
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\obj\Debug\Trabalho_2___Banco_de_Dados.FormMenu.resources
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\bin\Debug\pt-BR\Trabalho 2 - Banco de Dados.resources.dll
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\obj\Debug\pt-BR\Trabalho 2 - Banco de Dados.resources.dll
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\obj\Debug\Trabalho_2___Banco_de_Dados.FormCadastrar.resources
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\obj\Debug\Trabalho_2___Banco_de_Dados.FormCadastros.resources
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\obj\Debug\Trabalho_2___Banco_de_Dados.Trabalho_2_Banco_de_Dados.view.FormAtualizacao.resources
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\obj\Debug\Trabalho_2___Banco_de_Dados.FormExcluir.resources
+D:\FACULDADE\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\Trabalho 2 - Banco de Dados\obj\Debug\Trabalho_2___Banco_de_Dados.FormCadastros.pt-BR.resources
